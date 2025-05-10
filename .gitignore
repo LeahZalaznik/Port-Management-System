@@ -1,0 +1,26 @@
+# Ignore database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Ignore backup files
+*.bak
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
+
+# Ignore directories
+node_modules/
+venv/
+__pycache__/
